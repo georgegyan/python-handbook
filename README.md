@@ -1,34 +1,13 @@
-# Python Handbook
+# Python Handbook 
 
-A collection of small Python projects and scripts for learning practical automation and file management tasks.
+An open-source collection of Python projects, scripts, automation tools, and learning resources.
 
-## Project Structure
+This repository started as my personal Python learning journey, where I commit Python projects regularly. It is now open to contributions from developers of all skill levels.
 
-- `Day 001_Screenshot/` — A script for capturing screenshots and saving them to a folder.
-- `Day 002 - File Organizer/` — A file organizer that sorts downloaded files into document and image folders.
-- `Day-003-Bulk-File-Renamer/` — A bulk file renaming script for renaming many files consistently.
+## Contributing
 
-## How to Use
+Contributions are welcome! Feel free to add Python projects, improve existing code, fix bugs, or enhance documentation.
 
-1. Open the folder for the project you want to try.
-2. Review the Python script and adjust any file paths or settings.
-3. Run the script with Python, for example:
+## License
 
-```bash
-python screenshot.py
-```
-
-or
-
-```bash
-python bulk_renamer.py
-```
-
-## Notes
-
-- These examples are intended for learning and personal automation.
-- Always backup files or test in a sample folder before running scripts on important data.
-
-## Requirements
-
-Each subproject may include its own `requirements.txt` file for dependencies.
+This project is licensed under the MIT License.
