@@ -13,7 +13,7 @@ Thank you for contributing!
 ## How to Contribute
 
 1. Fork the repository.
-2. Create a new branch.
+2. Create a new branch. (eg: git checkout -b feat/new-feature)
 3. Add your project or improvement.
 4. Commit your changes.
 5. Open a Pull Request.
