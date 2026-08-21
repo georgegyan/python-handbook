@@ -108,6 +108,7 @@ Please read the `CONTRIBUTING.md` file before submitting a Pull Request.
 * Write clean and readable code.
 * Add comments where necessary.
 * Ensure the project runs correctly before submitting.
+* Visit https://github.com/georgegyan/python-handbook/issues to view issues
 
 ---
 
