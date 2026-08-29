@@ -1,14 +1,17 @@
-# GitHub Profile Analyzer
+# GitHub Profile Analyzer Pro
 
-A Python application that fetches and displays public GitHub profile information using the GitHub REST API.
+A Python CLI application that analyzes GitHub profiles using the GitHub REST API.
 
 ## Features
 
-- Fetch GitHub user information
-- Display profile details
-- Show repository count
-- Show followers and following count
-- Display profile URL
+- Fetch profile information
+- Show followers and following
+- Calculate total stars
+- Display top repositories
+- Analyze most-used languages
+- Estimate developer score
+- Show account age
+- Rich terminal UI
 
 ## Installation
 
@@ -26,12 +29,13 @@ python github_profile_analyzer.py
 
 - Python
 - Requests
+- Rich
 - GitHub REST API
 
 ## Concepts Learned
 
 - API Integration
-- HTTP Requests
 - JSON Parsing
-- Error Handling
-- Working with External Services
+- HTTP Requests
+- Data Analysis
+- Terminal UI Design
